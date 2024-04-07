@@ -95,5 +95,5 @@ Now move model.pth to the backend directory.
      ```
     
 ## IMPORTANT LINKS
-PPT - https://docs.google.com/presentation/d/1TZgp6ghtxH3RwJkShzKPj-YgZ2uxTDF0/edit?usp=drive_link&ouid=110831135010972549841&rtpof=true&sd=true
+PPT - https://docs.google.com/presentation/d/1TZgp6ghtxH3RwJkShzKPj-YgZ2uxTDF0/edit?usp=drive_link&ouid=110831135010972549841&rtpof=true&sd=true <br/>
 Video - https://drive.google.com/file/d/1DszJadp0Xqj69Cb6pohi0HBBv-hZTObN/view?usp=drive_link
