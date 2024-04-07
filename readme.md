@@ -24,7 +24,7 @@ The main components of this project include:
 7. [Inference](#inference)
 8. [Visualization](#visualization)
 9. [Dependencies](#dependencies)
-10. [Usage](#usage)
+10. [Setup](#setup)
 
 ## Project Structure
 The project is organized into several key components:
@@ -66,10 +66,13 @@ Ensure you have the following dependencies installed:
 - next.js
 - Other necessary libraries
 
-## Usage
+## setup
 1. Clone the repository:
+ ```bash
+git clone https://github.com/Anjali7070/Hack-o-masters.git
+```
 
-2. Set up your environment and install dependencies:
+3. Set up your environment and install dependencies:
 ```bash
    pip install -r requirements.txt
 ```
