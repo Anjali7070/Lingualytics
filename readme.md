@@ -77,3 +77,6 @@ Ensure you have the following dependencies installed:
 3. Follow the notebooks and scripts to preprocess data, build models, train, evaluate, and perform inference.
 
 4. Visualize the results using the provided visualization scripts.
+
+## IMPORTANT LINKS
+PPT - https://docs.google.com/presentation/d/1TZgp6ghtxH3RwJkShzKPj-YgZ2uxTDF0/edit?usp=drive_link&ouid=110831135010972549841&rtpof=true&sd=true
