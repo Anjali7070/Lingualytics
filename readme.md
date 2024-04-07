@@ -70,16 +70,29 @@ Ensure you have the following dependencies installed:
 1. Clone the repository:
  ```bash
 git clone https://github.com/Anjali7070/Hack-o-masters.git
+cd Hack-o-masters
 ```
+2. Importing Lingualytics Model:
+  ```bash
+git lfs install
+git clone https://huggingface.co/saurabhalp/linguilytics
+```
+Now move model.pth to the backend directory.
 
-3. Set up your environment and install dependencies:
+4. Set up your environment and install dependencies:
 ```bash
    pip install -r requirements.txt
 ```
-
-3. Follow the notebooks and scripts to preprocess data, build models, train, evaluate, and perform inference.
-
-4. Visualize the results using the provided visualization scripts.
-
+5. ```bash
+   cd frontend
+   npm i
+   npm run dev
+   ```
+ 6. ```bash
+    cd ..
+    cd backend
+    python server.py
+     ```
+    
 ## IMPORTANT LINKS
 PPT - https://docs.google.com/presentation/d/1TZgp6ghtxH3RwJkShzKPj-YgZ2uxTDF0/edit?usp=drive_link&ouid=110831135010972549841&rtpof=true&sd=true
