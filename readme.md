@@ -1,6 +1,6 @@
-# LINGUALYTICS - Gender-and-Age-Detector
+# AgeGenX - Gender-and-Age-Detector
 
-Lingualytics - The Gender and Age Detection project is a Natural Language Processing (NLP) based project that uses Machine Learning to predict the gender and approximate age of individuals by analyzing the linguistic features and patterns in their text data, messages, comments or chat conversations. The project is implemented using deep learning techniques and leverages a dataset of textual data. It can be used for various applications, such as targeted marketing and advertising, social media analytics, demographic and sentiment analysis, personalized healthcare recommendations, enhanced customer services, chatbot optimization and content moderation,security and surveillance, and personalized recommendations.
+AgeGenX - The Gender and Age Detection project is a Natural Language Processing (NLP) based project that uses Machine Learning to predict the gender and approximate age of individuals by analyzing the linguistic features and patterns in their text data, messages, comments or chat conversations. The project is implemented using deep learning techniques and leverages a dataset of textual data. It can be used for various applications, such as targeted marketing and advertising, social media analytics, demographic and sentiment analysis, personalized healthcare recommendations, enhanced customer services, chatbot optimization and content moderation, security and surveillance, and personalized recommendations.
 
 The main components of this project include:
 
